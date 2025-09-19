@@ -22,7 +22,7 @@
 </audio>
 
 <video width="320" height="240" controls>
-  <source src="dd7ef93e-c6f6-4c72-9643-80500950598d.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/dom278/Yo/main/dd7ef93e-c6f6-4c72-9643-80500950598d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
