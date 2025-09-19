@@ -1,2 +1,32 @@
-# Yo
-Hello
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Introducing myself</h1>
+</head>
+<body>
+
+<h5>Name</h5>
+<p>Dominic Orlando III A. David</p>
+<h5>School</h5>
+<p>I go to FEU DILIMAN and I am from 8-Mindful</p>
+<h5>Hobbies</h5>
+<p>I like to learn history and play basketball</p>
+<h5>Age and birthday</h5>
+<p>I am 13 years old and my birthday is December 8, 2011</p>
+
+<img src="https://uploads.onecompiler.io/43dprmgzp/43dprj7e2/Messenger_creation_0C8ED6FD-469E-4961-A1C7-72355D8F8F55.jpeg" alt="A picture of me, Dominic" width="250" height="300">
+
+<audio controls>
+  <source src="your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<video width="320" height="240" controls>
+  <source src="your-video-file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<h5>Thats all! Thank you!</h5>
+
+</body>
+</html>
