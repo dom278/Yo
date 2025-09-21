@@ -1,33 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Introducing myself</h1>
+  <title>Introducing myself</title>
 </head>
 <body>
 
-<h5>Name</h5>
-<p>Dominic Orlando III A. David</p>
-<h5>School</h5>
-<p>I go to FEU DILIMAN and I am from 8-Mindful</p>
-<h5>Hobbies</h5>
-<p>I like to learn history and play basketball</p>
-<h5>Age and birthday</h5>
-<p>I am 13 years old and my birthday is December 8, 2011</p>
+  <h1>Introducing myself</h1>
 
-<img src="https://uploads.onecompiler.io/43dprmgzp/43dprj7e2/Messenger_creation_0C8ED6FD-469E-4961-A1C7-72355D8F8F55.jpeg" alt="A picture of me, Dominic" width="250" height="300">
+  <h5>Name</h5>
+  <p>Dominic Orlando III A. David</p>
 
-<audio controls>
-  <source src="https://ia600909.us.archive.org/30/items/ThomasA.Edison/Thomas_A_Edison_2.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+  <h5>School</h5>
+  <p>I go to FEU DILIMAN and I am from 8-Mindful</p>
 
-<video width="320" height="240" controls>
-  <source src="<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@tkbas_ketball/video/7528706714443451650" data-video-id="7528706714443451650" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@tkbas_ketball" href="https://www.tiktok.com/@tkbas_ketball?refer=embed">@tkbas_ketball</a> late night + music&gt;&gt; <a title="basketball" target="_blank" href="https://www.tiktok.com/tag/basketball?refer=embed">#basketball</a> <a title="pov" target="_blank" href="https://www.tiktok.com/tag/pov?refer=embed">#pov</a> <a title="hooper" target="_blank" href="https://www.tiktok.com/tag/hooper?refer=embed">#hooper</a> <a title="night" target="_blank" href="https://www.tiktok.com/tag/night?refer=embed">#night</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ Airplane Mode - Limbo" href="https://www.tiktok.com/music/Airplane-Mode-6763578103957555201?refer=embed">♬ Airplane Mode - Limbo</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>"
- type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <h5>Hobbies</h5>
+  <p>I like to learn history and play basketball</p>
 
-<h5>Thats all! Thank you!</h5>
+  <h5>Age and birthday</h5>
+  <p>I am 13 years old and my birthday is December 8, 2011</p>
+
+  <p>This is a picture of me</p>
+  <img src="https://uploads.onecompiler.io/43dprmgzp/43dprj7e2/Messenger_creation_0C8ED6FD-469E-4961-A1C7-72355D8F8F55.jpeg" alt="A picture of me, Dominic" width="250" height="300">
+
+  <p>Listen to a short message from me</p>
+  <div><iframe width="300" height="60" src="https://vocaroo.com/embed/1iMDMV3gacXw?autoplay=0" frameborder="0" allow="autoplay"></iframe><br><a href="https://voca.ro/1iMDMV3gacXw" title="Vocaroo Voice Recorder" target="_blank">View on Vocaroo >></a></div> 
+
+  <p>This is my sport and my hobby, I play basketball everyday</p>
+  <video width="320" height="240" controls>
+    <source src="https://drive.google.com/file/d/1ORC5p3r0irsXWXkeYRaEofnysvfWVIaB/view?usp=sharing">
+    Your browser does not support the video tag.
+  </video>
+
+  <h5>Thats all! Thank you!</h5>
 
 </body>
 </html>
